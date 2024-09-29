@@ -2,10 +2,10 @@
 {
     public enum ClubCategory
     {
-        //RoadRunner,
-        //Womens,
-        //City,
-        //Trail,
-        //Endurance
+        RoadRunner,
+        Womens,
+        City,
+        Trail,
+        Endurance
     }
 }
